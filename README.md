@@ -1,6 +1,8 @@
 
 # Project Title: Figma Design for 'Infollion Moderate Page 4'
 
+### Netlify Preview URL: https://infollionmoderate4.netlify.app/
+
 ## Project Description:
 This repository contains the Figma design for Infollion Moderate Page 4. It's created to help visualize and communicate the design concept.
 
@@ -9,6 +11,7 @@ The design was created using Figma.
 
 ## Design Mockup:
 XD Preview Provided for Design: https://xd.adobe.com/view/79698f47-0d76-43a7-aec1-6e9747dbb104-2c3a/screen/df117e38-fad9-47ef-8f1c-fae57aaf2f57/specs/
+
 Figma Design Preview I Created: https://www.figma.com/file/MMjaRV0CqRDLdukgH8BTd6/Infolion?type=design&node-id=9-4420&mode=design
 
 
